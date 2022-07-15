@@ -15,4 +15,4 @@ Ele possibilita lidar com o tráfego de mensagens de forma rápida e confiável,
 
 ## Objetivo desse Projeto:
 
-Iniciar seus passos para entender a mensageria, só que para trabalhar na atualidade temos que entender microservices e com isto a mensageria, seria ela pelo RabbiMQ ou Kakfa é muito importante entender e implementar.
+Iniciar o entender a mensageria, pois para trabalhar na atualidade temos que entender microservices e entrelassado a isto temos a mensageria, sendo ela pelo RabbiMQ ou Kakfa é muito importante entender e implementar.
